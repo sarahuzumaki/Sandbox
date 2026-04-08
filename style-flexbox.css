@@ -1,0 +1,36 @@
+
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.red{background-color: red;}
+.green{background-color: green;}
+.blue{background-color: blue;}
+div{
+    width: 200px;
+    height: 200px;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.space-between{
+    justify-content: space-between;
+}
+.space-around{
+    justify-content: space-around;
+}
+.gap-16{
+    gap: 16px;
+}
+.justify-center{
+    justify-content: center;
+}
+.w-100{
+    width: 100%;
+}
+.w-15{
+    width: 15%;
+}
+.txt-center{text-align: center;}
